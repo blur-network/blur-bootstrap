@@ -6,8 +6,8 @@ A compressed archive of data directory for the blur blockchain.  Just a copy of 
 
 ## Instructions For Use
 
-- Create a directory `mkdir blur-bootstrap`
-- `cd` into `blur-bootstrap` directory
+- Create a directory `mkdir ~/blur-bootstrap`
+- Move into directory: `cd ~/blur-bootstrap`
 - Download bootstrap with: `wget https://github.com/blur-network/blur-bootstrap/raw/main/bootstrap-data-dir.tar.gz`
 - If you have a partially synced blockchain in your data directory, back up your old data directory with:
   - `mv ~/.blurnetwork ~/.blurnetwork-old`
